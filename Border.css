@@ -1,0 +1,26 @@
+.parent
+{
+    height: 300px;
+    width: 400px;
+    margin-left: 100px;
+    border: 1px solid royalblue;
+    border-style: dashed;
+    padding: 20px;
+}
+.child
+{
+    height: 200px;
+    width: 300px;
+    /* margin-left: 200px; */
+    border: 4px dotted skyblue;
+    padding: 30px;
+    /* margin-top: 20px; */
+    margin: right 300px;
+    margin-left: 20px;
+    margin-bottom: 1000px;
+    border-style: groove;
+    margin-top: 15px;
+    
+    
+    
+}
